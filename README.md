@@ -1,2 +1,2 @@
-# readme
-**This is a repository used to lejj's personal cpp learning**
+# lejj-personal-cpp-learning
+**仅供个人cpp和数据结构学习使用**
