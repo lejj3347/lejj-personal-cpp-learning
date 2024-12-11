@@ -22,7 +22,8 @@ currency::currency(double thevalue){
         thevalue=-thevalue;    
     }
     dollars=(unsigned int)thevalue;
-    cents=(unsigned int)((thevalue-dollars)*100);
+    cents=(unsigned int)((thevalue-dollars+0.001)*100); //some issue inhere, cause 2.55 is less than to 2.55,so convert it to int is 254, we
+                                                  //need plus 0.01 to make it bigger than 2.55.
 }    
 currency::~currency()
 {
@@ -38,6 +39,7 @@ double currency::todouble()const{
     double a1=double(dollars)+double(cents)/100;
     if(sign==signtype::minus)
     a1=-a1;
+    return a1;
 }
 currency  currency::add(const currency& theadd) const{
     double a1=this->todouble();
