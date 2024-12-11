@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/currency.h
+iostream
+-
+
+/home/lejj/DataConstructure/ch1/currency/src/currency.cpp
+currency.h
+/home/lejj/DataConstructure/ch1/currency/src/currency.h
+

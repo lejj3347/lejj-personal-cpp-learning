@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/currency.dir/src/main.cpp.o CMakeFiles/currency.dir/src/currency.cpp.o  -o currency 

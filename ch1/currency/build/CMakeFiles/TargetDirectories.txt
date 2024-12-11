@@ -1,0 +1,3 @@
+/home/lejj/DataConstructure/ch1/currency/build/CMakeFiles/rebuild_cache.dir
+/home/lejj/DataConstructure/ch1/currency/build/CMakeFiles/edit_cache.dir
+/home/lejj/DataConstructure/ch1/currency/build/CMakeFiles/currency.dir
