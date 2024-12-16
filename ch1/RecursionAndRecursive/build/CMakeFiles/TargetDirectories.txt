@@ -1,0 +1,4 @@
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/build/CMakeFiles/rebuild_cache.dir
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/build/CMakeFiles/edit_cache.dir
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/build/CMakeFiles/honol.dir
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/build/CMakeFiles/accumulate.dir

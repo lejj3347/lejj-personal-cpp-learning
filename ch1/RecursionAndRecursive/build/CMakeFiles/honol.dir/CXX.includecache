@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hanol.h
+iostream
+-
+
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/src/hanol.cpp
+hanol.h
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/src/hanol.h
+

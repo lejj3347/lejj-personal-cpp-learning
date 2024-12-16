@@ -1,0 +1,3 @@
+/home/lejj/DataConstructure/ch1/Exercises/build/CMakeFiles/rebuild_cache.dir
+/home/lejj/DataConstructure/ch1/Exercises/build/CMakeFiles/edit_cache.dir
+/home/lejj/DataConstructure/ch1/Exercises/build/CMakeFiles/6.dir

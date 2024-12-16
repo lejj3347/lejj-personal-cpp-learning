@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(ACCUMULATE)
+include_directories(include)
+#set(SRC src/main.cpp accumulate.cpp)
+add_executable(accumulate src/main.cpp src/accumlate.cpp)
+add_executable(honol src/hanol.cpp)

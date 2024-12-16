@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/accumlate.h
+iostream
+-
+numeric
+-
+
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/src/main.cpp
+accumlate.h
+/home/lejj/DataConstructure/ch1/RecursionAndRecursive/src/accumlate.h
+

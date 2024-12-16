@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/6.h
+iostream
+-
+
+/home/lejj/DataConstructure/ch1/Exercises/src/6.cpp
+6.h
+/home/lejj/DataConstructure/ch1/Exercises/src/6.h
+

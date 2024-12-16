@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/accumulate.dir/src/main.cpp.o CMakeFiles/accumulate.dir/src/accumlate.cpp.o  -o accumulate 
